@@ -9,5 +9,4 @@
 
 #### To Follow along! [Watch it!](https://colab.research.google.com/drive/1Cpkdl9Hm7vqrJKbirAGqLCPDR1B-o-cB?usp=sharing)
 
-![Mandar](https://github.com/mandar-karhade/Medcon2024/blob/ccfe0dd8df7577fae10c7f11789e64b52a66ee57/Images/Mandar.png?raw=true)
 #### Find me on Linkedin [Mandar Karhade](https://www.linkedin.com/in/mandarkarhade/)
