@@ -6,9 +6,9 @@
 
 #
 
-#### To Follow along and Do it! .............................. [Do It!](https://colab.research.google.com/drive/1FJhQ8FfjuNDvJ-sOiFd4sqPgfMM8SnCP?usp=sharing)
+#### To Follow along and DO ! .............................. [Do It!](https://colab.research.google.com/drive/1FJhQ8FfjuNDvJ-sOiFd4sqPgfMM8SnCP?usp=sharing)
 
-#### To Follow along! .............................. [Watch it!](https://colab.research.google.com/drive/1Cpkdl9Hm7vqrJKbirAGqLCPDR1B-o-cB?usp=sharing)
+#### To Follow along and SEE ! .............................. [Watch it!](https://colab.research.google.com/drive/1Cpkdl9Hm7vqrJKbirAGqLCPDR1B-o-cB?usp=sharing)
 
 #### Find me on Linkedin .............................. [Mandar Karhade](https://www.linkedin.com/in/mandarkarhade/)
 
