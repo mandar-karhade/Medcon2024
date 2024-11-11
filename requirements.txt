@@ -12,6 +12,7 @@ pycaret
 scikit-learn<1.5.0
 xxhash
 mlflow
+fairlearn
 schemdraw<0.16
 absl-py==1.4.0
 accelerate==0.34.2
